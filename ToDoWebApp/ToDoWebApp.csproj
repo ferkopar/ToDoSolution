@@ -238,6 +238,34 @@
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="Scripts\apex\p1.js" />
+    <Content Include="Scripts\apex\p11220.js" />
+    <Content Include="Scripts\apex\P11300.js" />
+    <Content Include="Scripts\apex\p11301.js" />
+    <Content Include="Scripts\apex\P3000.js" />
+    <Content Include="Scripts\apex\p3001.css" />
+    <Content Include="Scripts\apex\P3001.js" />
+    <Content Include="Scripts\apex\P301.js" />
+    <Content Include="Scripts\apex\p3100.js" />
+    <Content Include="Scripts\apex\P3110.js" />
+    <Content Include="Scripts\apex\p3111.js" />
+    <Content Include="Scripts\apex\P3202.js" />
+    <Content Include="Scripts\apex\P400.js" />
+    <Content Include="Scripts\apex\p410.js" />
+    <Content Include="Scripts\apex\p500.js" />
+    <Content Include="Scripts\apex\Template.js" />
+    <Content Include="Scripts\apex_expert\P1000.js" />
+    <Content Include="Scripts\apex_expert\p1001.js" />
+    <Content Include="Scripts\apex_expert\p101.js" />
+    <Content Include="Scripts\apex_expert\p3001.css" />
+    <Content Include="Scripts\apex_expert\P3001.js" />
+    <Content Include="Scripts\apex_expert\p3002.js" />
+    <Content Include="Scripts\apex_expert\P3003.js" />
+    <Content Include="Scripts\apex_expert\P3004.js" />
+    <Content Include="Scripts\apex_expert\p3101.js" />
+    <Content Include="Scripts\apex_expert\Responstable.css" />
+    <Content Include="Scripts\apex_expert\Template.js" />
+    <Content Include="Scripts\apex_expert\Teszt.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Areas\HelpPage\Views\Web.config" />
@@ -317,7 +345,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Scripts\apex\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
